@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ad70174b079c2f4ebc7931d3dd1af6f, type: 3}
+  m_Name: SpawnableNetworkPrefabList
+  m_EditorClassIdentifier: 
+  _prefabs:
+  - {fileID: 6443611880140000146, guid: 5478248d2a8bc1f4891901f686dbc1bb, type: 3}
+  - {fileID: -4109442380067150583, guid: 869de08baf05e9443b936efa15763999, type: 3}
+  - {fileID: 8700831219009152577, guid: dbf8a9fd1302b8843b669de309a7537f, type: 3}
+  - {fileID: 1898036450396620407, guid: 5a13323edafc6bc48a99116025482039, type: 3}
+  - {fileID: 1898036450396620407, guid: 1c2847a0df36d0b48b3fe3b71f3dae56, type: 3}
+  - {fileID: 6443611880140000146, guid: 5867c1f94288a204bba700b340aa5a99, type: 3}
